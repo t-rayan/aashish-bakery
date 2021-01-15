@@ -1,5 +1,5 @@
 # aashish-bakery
 Web site for aashish bakery
 
-#tech uses
+#BUILT USING
 - HTML,CSS AND VANILLA JS
