@@ -127,19 +127,19 @@ padding-bottom: 3rem ;
 }
 
 #hero_section .cta_container {
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
 }
 .cta_container .cta {
   width: 170px;
-  height: 45px;
   background-color: transparent;
   border: 2px solid rgba(174, 95, 39, 0.6);
   border-radius: 50px;
   text-align: center;
-  font-size: .9rem;
+  font-size: 1rem;
   cursor: pointer;
   font-weight: 500;
-  
+  padding: 1rem 2.5rem;
+  color: #000;
 }
 .cta:hover  {
   background-color: var(--main-color);
